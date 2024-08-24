@@ -1,0 +1,25 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color:rgb(27, 27, 27);
+    display:flex;
+    text-align: center;
+    justify-content:right;
+    text-decoration: none;
+}
+
+.a-navbar{
+    color:white;
+    text-decoration: none;
+    padding:3px;
+    margin:5px;
+}
+
+.logo{
+    background-image: url(https://st5.depositphotos.com/61638172/65797/v/1600/depositphotos_657972180-stock-illustration-cute-happy-cat-cartoon-design.jpg);
+    background-size:cover;
+}
